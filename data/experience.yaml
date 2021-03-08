@@ -1,0 +1,36 @@
+- company: Qlik
+  roles:
+    - role: Principal Solution Architect, Partner Engineering
+      details: "Qlik is leader in Business Analytics delivering best of breed Data Analytics and Data Integration."
+      bullets1: "Supported strategic technology partner AWS, Veeva, GCP and partners in AI/ML."
+      bullets2: "Focused on cloud, DevOps and AI/ML Integrations(AWS Marketplace, AWS Lake formation, Qlik AWS SageMaker integration)"
+      bullets3: "Develop and deliver integrated technical assets for GTM campaigns."
+      date: "July 2019 -  Present"
+
+- company: DataStax
+  roles: 
+    - role: Solutions Engineer, Southern California
+      details: "DataStax Delivers Distributed Database for Application needing Always on, Real-time, Distributed, Scalable characteristics. DataStax is Cassandra based NoSQL Database built on Apache Cassandra."
+      bullets1: "9 customer workshop delivered in public and customer setting"
+      bullets2: "Assisted in product evaluations and created prototypes with complimentary technology including Spark, Solr, and Kafka."
+      bullets3: "Build champions and re-engage with keystone accounts.(meetups, lunch and learns)"    
+      date: "Feb 2018 - July 2019"
+    
+- company: Unifi Software
+  roles:
+    - role: Sr. Sales Engineer - Western US
+      details: "Unifi is a data catalog and data prep company based in silicon valley to help enterprises discover, curate and enhance their data."
+      bullets1: "First Sales Engineer to cover the Western United States."
+      bullets2: "Spoke at 10 events(Meetups, Conferences, and etc.) and generated over 20 qualified leads"
+      bullets3: "Executed multiple POCs implementing python Data Science libraries."
+      date: "July 2017 - Feb 2018"
+
+- company: Hortonworks, Inc.
+  roles:
+    - role: Solutions Engineer, Southern California
+      details: "Lead Presales role working with Enterprises and Mid-Market Segment.  Worked with key accounts to enable and create Data Lakes and assist in Big Data Projects."
+      bullets1: "5 Workshops and 2 speaking events to engage and generate leads."
+      bullets2: "Worked Closely with prospect Enterprise Architecture teams to gather required capabilities and assist meeting those goals"
+      bullets3: "Frequent white boarding sessions and office hours  with Technical Staff."
+      date: "May 2016 - July 2017"
+

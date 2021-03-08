@@ -1,0 +1,55 @@
+skills:
+  - "Python - R - SQL"
+  - "InfluxDB/TICK Stack"
+  - "Grafana - PowerBI"
+  - "Excel - Minitab - SPSS"
+  - "GAMS - OR-Tools - IBM CPLEX"
+  - "C# - Git - Docker - NGINX"
+
+skillsGrouped:
+  - groupName: "Soft Skills "
+    skills: ["Project Management - Agile - SDLC", "MEDDIC - Command Of Message - Targeted Sales - Franklin Covey"]
+ 
+  - groupName: "Technical Skills"
+    skills: ["Hadoop-Cassandra-MongoDB-Teradata", "QlikSense- QlikView- Qlik Replicate - Qlik-Compose","Nifi-Kafka", "Terraform-SFDC Visual Force"]
+
+  - groupName: "Programming & Systems"
+    skills: ["C# - Git - Docker - Python -Go", "Linux-AWS-GCP-Azure"]
+
+interests:
+  - "Distributed Computing"
+  - "AI/ML Applications"
+  - "Algorithmic Trading"
+  - "Open Source Software"
+
+languages:
+  - name: "Korean"
+    level: "Professional"
+
+  - name: "English"
+    level: "Native"
+
+awards:
+  - name: "Tübitak - Graduation Project"
+    date: "2017"
+    details: "A Decision Support System for 3D Cutting Problem"
+
+certificates:
+  - name: "Supervised Learning: Regression"
+    date: "2020"
+    issued_by: "Coursera"
+    link: "https://xkcd.com/605/"
+
+  - name: "Supervised Learning: Classification"
+    date: "2020"
+    issued_by: "Coursera"
+    link: "https://xkcd.com/388/"
+
+
+about:
+  - name: "JOHN PARK"
+    tagline: "Enterprise Software Professional"
+    phone: "678.643.1781"
+    linkedin: "https://www.linkedin.com/in/jpark328"
+    email: "john@johnpark.io"
+    details: "Energetic self driven enterprise software professional looking for a company to make a difference to the bottome line and help organization to grow.  Looking for opportunities in emerging technologies to learn and work with customers and latest technology."
