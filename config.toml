@@ -2,7 +2,7 @@ baseURL = "https://www.johnpark.io"
 languageCode = "en-us"
 title = "Resume | John Park"
 disableKinds = ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
-theme = "hugo-devresume-theme"
+theme = "resume-a4"
 
 [params]
 useFontAwesome = true
