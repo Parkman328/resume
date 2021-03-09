@@ -1,4 +1,4 @@
-baseURL = "www.johnpark.io"
+baseURL = "https://www.johnpark.io"
 languageCode = "en-us"
 title = "Resume | John Park"
 disableKinds = ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
