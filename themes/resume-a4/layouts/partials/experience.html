@@ -10,6 +10,9 @@
                 <span class="date">{{ .date }}</span>
             </div>
             <p>{{ .details | markdownify }}</p>
+            <li>{{.bullets1 | markdownify }}</li>
+            <li>{{.bullets2 | markdownify }}</li>
+            <li>{{.bullets3 | markdownify }}</li>
         </div>        
         {{ end }}
     </div>
