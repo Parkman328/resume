@@ -1,4 +1,4 @@
-baseURL = "johnpark-resume.netlify.app"
+baseURL = "https://johnpark-resume.netlify.app"
 languageCode = "en-us"
 title = "Resume | John Park"
 disableKinds = ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
